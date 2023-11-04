@@ -1,0 +1,23 @@
+{
+  "name": "calculator-jibran",
+  "version": "1.0.2",
+  "description": "Simple CLI Calculator for Node Project",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "calculator-jibran": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jibran Ahmad Khan",
+  "license": "ISC",
+  "dependencies": {
+    "calculator-jibran": "^1.0.2",
+    "inquirer": "^9.2.11"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.4"
+  }
+}
